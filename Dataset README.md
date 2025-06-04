@@ -96,7 +96,7 @@ If you use this dataset in your research, please cite the original source (check
   howpublished = {\url{https://www.kaggle.com/datasets/gouravkai11/miap-dataset/data}}
 ```
 
-## Known Issues
+## Known Issues:
 1. Some images may be corrupted or missing (the pipeline handles these automatically)
 2. Label noise may be present (common in medical datasets)
 3. Class imbalance requires special handling (addressed in the pipeline)
