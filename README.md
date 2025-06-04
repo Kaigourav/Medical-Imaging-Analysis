@@ -159,4 +159,4 @@ The system achieved the following validation F1 scores:
 4. Develop a web interface for clinical deployment
 5. Add DICOM support for direct PACS integration
 
-This documentation provides a comprehensive overview of the medical image analysis pipeline. For implementation details, refer to the source code comments and the generated output files during execution.
+This documentation provides a comprehensive overview of the medical image analysis pipeline. For implementation details, refer to the source code comments and the generated output files during execution..
